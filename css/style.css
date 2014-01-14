@@ -1,0 +1,15 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	color: #FAF3BC;
+	background: #420600;
+}
+
+a {
+	color: #4Fb69F;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.750em;
+	letter-spacing: -1.5px;
+}
