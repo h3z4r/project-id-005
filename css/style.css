@@ -1,15 +1,67 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-	background: #420600;
+	color: #ffffff;
+	background: #ffffff;
 }
 
 a {
-	color: #4Fb69F;
-	text-decoration: none;
+	color: #ffffff;
+	
 }
 
 h1 {
 	font-size: 1.750em;
 	letter-spacing: -1.5px;
+}
+
+.logo {
+	background-color: #3498db;
+	padding: 10px;
+	height: 20px;
+}
+
+.navigation {
+	background-color: #2980b9;
+	padding: 10px;
+	height: 20px;
+}
+
+.main {
+	background-color: #ecf0f1;
+	padding: 30px;
+}
+
+.inner {
+	background-color: #ffffff;
+	padding: 20px;
+	height: 500px;
+
+}
+
+.inner_text {
+	color: #2c3e50;
+}
+.copyright {
+	font-family: 'Arial', sans-serif;
+	color: #ffffff;
+	font-size: 10px;
+}
+
+.navigation_text {
+	font-family: 'Arial', sans-serif;
+	color: #ffffff;
+	font-size: 11px;
+	text-align: right;
+}
+
+.publishers {
+	background-color: #c0392b;
+	padding: 20px;
+	height: 20px;
+}
+
+.publications {
+	background-color: #e74c3c;
+	padding: 20px;
+	height: 20px;
 }
